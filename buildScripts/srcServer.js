@@ -1,6 +1,6 @@
-var express = require('express');
-var path = require('path');
-var opn = require('opn');
+import express from 'express';
+import path from 'path';
+import opn from 'opn';
 
 var port = 3000;
 var app = express();
